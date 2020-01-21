@@ -1,0 +1,2 @@
+# WPF
+Test WPF Func
